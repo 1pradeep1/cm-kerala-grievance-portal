@@ -5,7 +5,7 @@ A working full-stack prototype for the **WhiteMatrix Software Solutions AI Full 
 > **Recruitment prototype.** Not affiliated with, or endorsed by, the Government of Kerala or the Chief Minister's Office. All data is fictional.
 
 ## Links
-- **Live application:** `<ADD-YOUR-RENDER-URL-HERE>` (free hosting: the first load after idle can take up to a minute)
+- **Live application:**https://cm-kerala-grievance-portal-utnb.onrender.com
 - **Repository:** https://github.com/1pradeep1/cm-kerala-grievance-portal
 - **Demo video:** `<ADD-LINK-HERE>`
 
