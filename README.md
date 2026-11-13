@@ -7,7 +7,6 @@ A working full-stack prototype for the **WhiteMatrix Software Solutions AI Full 
 ## Links
 - **Live application:** https://cm-kerala-grievance-portal-utnb.onrender.com (free hosting: the first load after idle can take up to a minute)
 - **Repository:** https://github.com/1pradeep1/cm-kerala-grievance-portal
-- **Demo video:** `<ADD-LINK-HERE>`
 
 ## Demo credentials (fictional test accounts)
 | Role | Email | Password |
